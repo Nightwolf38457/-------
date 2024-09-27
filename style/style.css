@@ -1,0 +1,406 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+.saxeli {
+    text-align: center;
+    color: red;
+    font-size: 100px;
+    font-weight: 800;
+}
+
+.searchis {
+    background-color: #F5F5F5;
+    width: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.searchtext {
+    color: #525252;
+    padding: 12px;
+    padding-left: 14px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0);
+    width: 92%;
+    border: none;
+}
+
+.a {
+    display: flex;
+    justify-content: space-between;
+    max-width: 716px;
+    margin: 0 auto;
+    padding-top: 44px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.main-container {
+    padding-top: 16px;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.aa {
+    color: black;
+}
+
+.mtavari,
+.mtavari2 {
+    width: 100%;
+    height: 278px;
+    background-size: 100%;
+}
+
+.mtavari {
+    background-image: url(../img/KENDRICK.png);
+}
+
+.mtavari2 {
+    background-image: url(../img/KENDRICK1.png);
+    margin: 64px 0;
+}
+
+.kendriki {
+    display: block;
+    margin: auto;
+    height: 620px;
+    margin: -310px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+
+
+
+
+
+
+/* ============================================ */
+
+
+
+/* მეორე გვერდის კეთების დასაწყისი */
+
+
+
+/* ============================================ */
+
+
+
+
+
+.aa1 {
+    color: red;
+}
+
+.ab {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 112px;
+    color: black;
+}
+
+.main {
+    padding-top: 142px;
+}
+
+.ac {
+    padding-left: 52px;
+    font-size: 20px;
+    color: black;
+    font-weight: 700;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding-bottom: 25px;
+}
+
+.container article a,
+.meorecontainer article a {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.container article,
+.meorecontainer article {
+    width: 33.33%;
+    position: relative;
+}
+
+.container article img {
+    width: 570px;
+    height: 570px;
+}
+
+
+
+
+
+
+
+
+
+/* ============================================== */
+
+
+
+/* მეორე გვერდის ქვეგვერდის დასაწყისი */
+
+
+
+/* ============================================== */
+
+
+
+
+
+
+
+
+
+
+
+.centercontainer {
+    padding-top: 170px;
+}
+
+.mcontainer {
+    max-width: 1400px;
+    margin: auto;
+    display: flex;
+    gap: 214px;
+}
+
+.mcontainer .main-img img {
+    width: 582px;
+    height: 582px;
+}
+
+.main-img {
+    border: 1px solid #DFDFDF;
+    width: 630px;
+    height: 630px;
+}
+
+.ji {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 200px;
+}
+
+.wre,
+.wre1 {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.wre1 {
+    background-color: black;
+}
+
+.satauri {
+    font-size: 40px;
+    font-weight: 700;
+    width: 300px;
+    color: #313131;
+}
+
+.fasi {
+    font-size: 38px;
+    color: #4B4B4B;
+    font-weight: bold;
+    padding-top: 70px;
+}
+
+.zoma,
+.ae {
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 36px;
+}
+
+.zoma {
+    padding-top: 36px;
+}
+
+.border {
+    border: 1px solid black;
+    width: 84px;
+    height: 62px;
+    color: #4B4B4B;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ad {
+    padding-top: 28px;
+    gap: 38px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ae {
+    padding-top: 84px;
+    padding-bottom: 36px;
+}
+
+.af {
+    border: 1px solid black;
+    color: #4B4B4B;
+    width: 226px;
+    height: 76px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 46px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ki {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.ag {
+    width: 610px;
+    height: 74px;
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ================================================ */
+
+
+
+/* მესამე გვერდის გაკეთების დასაწყისი */
+
+
+
+/* ================================================ */
+
+
+
+
+
+
+
+
+
+.meorecontainer {
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 1500px;
+    padding-bottom: 130px;
+}
+
+.meorecontainer article p {
+    width: 420px;
+}
+
+.meorecontainer article img {
+    width: 370px;
+    height: 370px;
+}
+
+.satauri2 {
+    width: 608px;
+}
+
+.k1 {
+    font-size: 26px;
+    font-weight: bold;
+    color: #313131;
+    padding-top: 24px;
+}
+
+.main-img2 {
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* ================================================ */
+
+
+
+/* ბოლო გვერდის კეთების დასაწყისი */
+
+
+
+/* ================================================= */
+
+
+
+
+
+
+
+
+
+.scontainer {
+    padding-top: 124px;
+}
+
+.scontainer img {
+    width: 100%;
+}
+
+.bolop {
+    font-size: 44px;
+    color: black;
+    font-weight: 300;
+    width: 100%;
+    text-align: center;
+    padding: 220px 0;
+}
